@@ -455,7 +455,6 @@ Disable auto upgrade:
 acme.sh --upgrade --auto-upgrade 0
 ```
 
-
 # 15. Issue a cert from an existing CSR
 
 https://github.com/acmesh-official/acme.sh/wiki/Issue-a-cert-from-existing-CSR
